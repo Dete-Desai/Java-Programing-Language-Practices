@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "Exercises/Operators",
+        "Exercises/Loops",
+        "Examples/Variables",
+        "Examples/Statements/ContinueStatement",
+        "Examples/Loops/WhileLoop",
+        "Examples/Loops/ForLoops",
+        "Examples/Loops/DoWhileLoop",
+        "Examples/Statements/BreakStatement"
+    ]
+}
